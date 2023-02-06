@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/briefs/mlflow/mlruns/540685612388527761/dde39ccd72b64f71980865b11804462c/artifacts
+end_time: 1675687662229
+entry_point_name: ''
+experiment_id: '540685612388527761'
+lifecycle_stage: active
+run_id: dde39ccd72b64f71980865b11804462c
+run_name: casual-quail-774
+run_uuid: dde39ccd72b64f71980865b11804462c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675687661974
+status: 3
+tags: []
+user_id: apprenant

@@ -1,0 +1,6 @@
+matplotlib
+mlflow
+numpy
+pandas
+scikit-learn==1.2.1
+xgboost==1.7.3

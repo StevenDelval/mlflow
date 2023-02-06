@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/briefs/mlflow/mlruns/540685612388527761/cc4deceb67f84f19b5f3bd0e5b05ee7e/artifacts
+end_time: 1675683082649
+entry_point_name: ''
+experiment_id: '540685612388527761'
+lifecycle_stage: active
+run_id: cc4deceb67f84f19b5f3bd0e5b05ee7e
+run_name: aged-lark-675
+run_uuid: cc4deceb67f84f19b5f3bd0e5b05ee7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675683082335
+status: 3
+tags: []
+user_id: apprenant
