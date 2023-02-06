@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/briefs/mlflow/mlruns/540685612388527761/97f55dee078542389da82967d1507da0/artifacts
+end_time: 1675694355321
+entry_point_name: ''
+experiment_id: '540685612388527761'
+lifecycle_stage: active
+run_id: 97f55dee078542389da82967d1507da0
+run_name: popular-lynx-490
+run_uuid: 97f55dee078542389da82967d1507da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675694355034
+status: 3
+tags: []
+user_id: apprenant
